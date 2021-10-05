@@ -14,12 +14,18 @@ checks which will snap to simplified rules rather than raw processing output. Th
 will speed up processing time for more robust summations.
 
 Goal 1: sum basic functions to the first power over user-defined ranges
+
 Goal 2: sum lower power functions over user defined ranges
+
 Goal 3: check to see if range applies to special cases, then use special cases
+
 instead
 Goal 4: include Riemann summs calculations
+
 Goal 5: print full work on user request to allow user to follow along
+
 Goal 6: graphical additions
+
 Goal 7: code for a desktop/mobile OS and establish as a fully-fledged program
 
 Feedback is intensely appreciated! I am a very new CS student at this present
