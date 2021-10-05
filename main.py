@@ -2,7 +2,7 @@
 # goal: program a summation calculator
 # secondary goal: program summation rules
 # I think I need to program a simple additive program first?
-
+import summfunct.py
 # variable seeds
 N = 5;
 j = 1;
