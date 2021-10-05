@@ -54,26 +54,3 @@ With this program, you can overwrite values in the summation.
 N = int(input("N = __"))
 j = int(input("j = __"))
 funct_x = input("f(x) = ______")
-
-# v 1 code below
-print(
-"""Hello, welcome to the Summation Calculator v. 1
-Please enter the lower number you want to add:
-
-"""
-)
-
-a = float(input())
-print(
-"""Please enter the higher number you want to add:
-
-"""
-)
-
-b = float(input())
-
-def add_toget(a, b):
-	return a + b
-
-print(a, "plus", b, "equals", add_together(a, b))
-# Should be enough to add a and b- untested tho
